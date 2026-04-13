@@ -1,6 +1,4 @@
-Here’s your **clean, professional, fully de-personalized project documentation** — no names, no social links, and generalized beyond Yelp 👇
 
----
 
 # Self-Healing Data Pipeline
 
